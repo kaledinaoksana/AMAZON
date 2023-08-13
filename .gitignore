@@ -3,4 +3,4 @@ __pycache__
 settings/settings.py
 examples
 notes.bash
-
+.DS_Store

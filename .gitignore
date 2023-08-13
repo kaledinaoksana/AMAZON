@@ -1,0 +1,6 @@
+scrapper-bot-env
+__pycache__
+settings/settings.py
+examples
+notes.bash
+
